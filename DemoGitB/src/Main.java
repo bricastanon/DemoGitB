@@ -9,7 +9,7 @@ public class Main {
         // this is a comment
         // now staging and ready to put GITHUB online
         // Update!
-        // Getting rid of A
+        // Getting rid of GitA
 
 
     }
